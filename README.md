@@ -1,3 +1,5 @@
+This repository is based on https://github.com/Yalantis/Segmentio. It can be used in Swift6 environment
+
 ## Segmentio
 [![Platform](http://img.shields.io/badge/platform-iOS-blue.svg?style=flat)](https://cocoapods.org/?q=segmentio) [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/Yalantis/Segmentio/blob/master/LICENSE) ![Swift 5](https://img.shields.io/badge/Swift-5-orange.svg) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage) ![Swift Package Manager](https://img.shields.io/badge/swiftpm-compatible-green.svg)
 
